@@ -123,5 +123,5 @@ These paths currently reside on the VM's 32 GB system disk. They are suitable fo
 
 The next major phase is moving the media library to a NAS while keeping Jellyfin's operating system, database, and configuration separate from the media files. Backup testing, non-administrator users, client testing, Tailscale, and possible Intel Quick Sync support will follow.
 
-See [04-Jellyfin-Future-Plans.md](04-Jellyfin-Future-Plans.md) for the prioritized roadmap.
+See [04-Jellyfin-Future-Plans](https://github.com/Kin3o/04-Jellyfin-Future-Plans) for the prioritized roadmap.
 
