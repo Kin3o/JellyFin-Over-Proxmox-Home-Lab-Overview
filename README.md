@@ -1,4 +1,4 @@
-# Proxmox Jellyfin Home Lab
+# Proxmox Jellyfin Home Lab Overview
 
 This project documents a working Jellyfin media server built inside a dedicated Debian virtual machine on Proxmox VE. The goal was to create an approachable first media-server lab while keeping the Proxmox host clean and separating the application from the hypervisor.
 
@@ -10,10 +10,10 @@ The completed local deployment can serve media to devices on the GL.iNet LAN. A 
 
 | Document | Purpose |
 |---|---|
-| [01-README.md](01-README.md) | Project overview, architecture, verified results, and current status |
-| [02-Jellyfin-Server-Build-Walkthrough.md](02-Jellyfin-Server-Build-Walkthrough.md) | Complete beginner-friendly installation and configuration procedure |
-| [03-Jellyfin-Troubleshooting-Lab.md](03-Jellyfin-Troubleshooting-Lab.md) | Problems encountered, causes, solutions, and lessons learned |
-| [04-Jellyfin-Future-Plans.md](04-Jellyfin-Future-Plans.md) | NAS storage, backups, remote access, and other planned improvements |
+| [01-Jellyfin-Over-Proxmox-Home-Lab-Overview](https://github.com/Kin3o/JellyFin-Over-Proxmox-Home-Lab-Overview) | Project overview, architecture, verified results, and current status |
+| [02-Jellyfin-Server-Build-Walkthrough](https://github.com/Kin3o/02-Jellyfin-Server-Build-Walkthrough) | Complete beginner-friendly installation and configuration procedure |
+| [03-Jellyfin-Troubleshooting-Lab](https://github.com/Kin3o/03-Jellyfin-Troubleshooting-Lab) | Problems encountered, causes, solutions, and lessons learned |
+| [04-Jellyfin-Future-Plans](https://github.com/Kin3o/04-Jellyfin-Future-Plans) | NAS storage, backups, remote access, and other planned improvements |
 
 ## Final architecture
 
